@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hide Premium and PR - Main site
 // @namespace    http://www.josefkuchar.cz/
-// @version      2.0.0
+// @version      2.0.1
 // @description  Hide premium and pr articles from main site
 // @author       Josef Kuchař
 // @match        http://www.itnetwork.cz/
